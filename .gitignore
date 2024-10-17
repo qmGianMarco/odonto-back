@@ -1,0 +1,8 @@
+# node_modules: carpeta de dependencias que no debería ser versionada.
+node_modules/
+
+# Archivos de bloqueo, si deseas ignorarlos para no versionar la versión exacta de dependencias.
+package-lock.json
+
+# .env: archivo de variables de entorno, generalmente contiene información sensible (claves, contraseñas, configuraciones).
+.env
